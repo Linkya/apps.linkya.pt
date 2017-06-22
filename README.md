@@ -1,3 +1,3 @@
 
-# apps.linkya.pt
-Linkya's Apps
+# Apps Linkya
+[http://apps.linkya.pt](http://apps.linkya.pt)
